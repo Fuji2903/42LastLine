@@ -1,6 +1,6 @@
-package com.test;
+package com.lastline;
 
-import com.test.list.LimitLinkedList;
+import com.lastline.list.LimitLinkedList;
 
 public class Main {
 

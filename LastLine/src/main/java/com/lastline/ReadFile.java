@@ -1,4 +1,4 @@
-package com.test;
+package com.lastline;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import com.test.list.LimitLinkedList;
+import com.lastline.list.LimitLinkedList;
 
 public class ReadFile {
 
